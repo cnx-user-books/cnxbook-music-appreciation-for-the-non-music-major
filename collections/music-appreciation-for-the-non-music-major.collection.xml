@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Carolina Kim de Salamanca">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12180</md:content-id>
     <md:title>Music Appreciation for the Non-Music Major</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d4bb45d7-9652-4a09-94e9-9ef5343feefc</md:uuid>
-<md:slug>music-appreciation-for-the-non-music-major</md:slug>
-</metadata>
+    <md:slug>music-appreciation-for-the-non-music-major</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m63946"/>
     <col:subcollection>
